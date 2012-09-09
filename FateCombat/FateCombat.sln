@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FateCombat", "FateCombat\FateCombat\FateCombat.csproj", "{17C33DD6-84D8-4363-AA61-BEA67022A908}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FateCombatContent", "FateCombat\FateCombatContent\FateCombatContent.contentproj", "{2AAD3D61-206F-4A3B-9F33-8538B7C41270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C33DD6-84D8-4363-AA61-BEA67022A908}.Debug|x86.ActiveCfg = Debug|x86
+		{17C33DD6-84D8-4363-AA61-BEA67022A908}.Debug|x86.Build.0 = Debug|x86
+		{17C33DD6-84D8-4363-AA61-BEA67022A908}.Release|x86.ActiveCfg = Release|x86
+		{17C33DD6-84D8-4363-AA61-BEA67022A908}.Release|x86.Build.0 = Release|x86
+		{2AAD3D61-206F-4A3B-9F33-8538B7C41270}.Debug|x86.ActiveCfg = Debug|x86
+		{2AAD3D61-206F-4A3B-9F33-8538B7C41270}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
